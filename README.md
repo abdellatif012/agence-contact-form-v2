@@ -57,8 +57,8 @@ Une explication détaillée, fichier par fichier, se trouve dans **[`EXPLICATION
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<votre-utilisateur>/<nom-du-repo>.git
-cd <nom-du-repo>
+git clone https://github.com/abdellatif012/agence-contact-form-v2.git
+cd agence-contact-form-v2
 
 # 2. Installer les dépendances
 npm install
